@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aditya Mishra
-### A passionate Web Developer, Software Engineer, and currently a Software Developer Intern at Sarjen Systems
+### A passionate Web Developer, Software Engineer, and currently a Software Developer  at Sarjen Systems
 
 ---
 
